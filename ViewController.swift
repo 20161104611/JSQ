@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var result: UITextField!
+
+    @IBOutlet weak var result: UILabel!
     
     var re = 0
     var judge = 0
