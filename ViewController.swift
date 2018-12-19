@@ -895,6 +895,7 @@ class ViewController: UIViewController {
             display.text?.removeLast()
         }
     }
+    //超级萌
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
