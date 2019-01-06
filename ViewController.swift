@@ -157,16 +157,7 @@ class ViewController: UIViewController {
                 }
                 else
                 {
-                    /*X = "+"
-                    x2=Double(result.text!)!
-                    x1 = x1 + x2
-                    x2 = 0.0
-                    X1 = String(x1)
-                    display.text=X1 + X
-                    judge = 0
-                    result.text=""
-                    flag = 0
-                    number = 1*/
+                    
                     if(number == 1 && result.text != "")
                     {
                         X = "+"
@@ -495,16 +486,7 @@ class ViewController: UIViewController {
                 }
                 else
                 {
-                    /*X = "+"
-                     x2=Double(result.text!)!
-                     x1 = x1 + x2
-                     x2 = 0.0
-                     X1 = String(x1)
-                     display.text=X1 + X
-                     judge = 0
-                     result.text=""
-                     flag = 0
-                     number = 1*/
+                    
                     if(number == 1 && result.text != "")
                     {
                         X = " x"
@@ -657,16 +639,7 @@ class ViewController: UIViewController {
                 }
                 else
                 {
-                    /*X = "+"
-                     x2=Double(result.text!)!
-                     x1 = x1 + x2
-                     x2 = 0.0
-                     X1 = String(x1)
-                     display.text=X1 + X
-                     judge = 0
-                     result.text=""
-                     flag = 0
-                     number = 1*/
+                    
                     if(number == 1 && result.text != "")
                     {
                         X = "÷"
